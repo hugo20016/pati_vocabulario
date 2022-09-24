@@ -44,6 +44,7 @@ public class MainView extends VerticalLayout {
                 Notification.show("Game Over");
                 aciertos.set(0);
                 fallos.set(0);
+                
             }
         });
 
